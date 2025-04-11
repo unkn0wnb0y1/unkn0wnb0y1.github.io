@@ -4,5 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+# **<strong><font color="red">WHOAMI</font></strong>**
+
+### **<strong><font color="DarkKhaki">Curious to know more about me?</font></strong>** 
+Feel free to check out my [portfolio](https://portfolio-soufiane-16.vercel.app/) to learn more about my work and experience.
